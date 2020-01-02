@@ -1,0 +1,14 @@
+com\jnshu\management\config\ShiroConfig.class
+com\jnshu\management\serivice\AccountService.class
+com\jnshu\management\serviceImpl\AccountServiceImpl.class
+com\jnshu\management\serviceImpl\RoleServiceImpl.class
+com\jnshu\management\ManagementApplication.class
+com\jnshu\management\dao\ModuleMapper.class
+com\jnshu\management\serivice\RoleService.class
+com\jnshu\management\model\Role.class
+com\jnshu\management\dao\AccountMapper.class
+com\jnshu\management\realm\AccountRealm.class
+com\jnshu\management\model\Module.class
+com\jnshu\management\dao\RoleMapper.class
+com\jnshu\management\controller\ManagementController.class
+com\jnshu\management\model\Account.class
